@@ -1,4 +1,4 @@
-# Aim-Trainer
+# Aim-Trainer 2D
 Basic 2D Aim trainer.
 
 ## In Game Screen Shots
