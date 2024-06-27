@@ -7,4 +7,4 @@ Basic 2D Aim trainer.
 
 Controls:
 Left click on the target to shoot.
-If needed use WASD to move the base.
+You can also move the base to dodge the targets using W,A,S,D.
